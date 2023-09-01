@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Disha-Portfolio/static/css/main.26f8d306.css",
+    "main.js": "/Disha-Portfolio/static/js/main.36c5a373.js",
+    "static/js/787.128fc6e9.chunk.js": "/Disha-Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/logo-s.png": "/Disha-Portfolio/static/media/logo-s.781a310d71be44141369.png",
+    "static/media/helvetica-neu.ttf": "/Disha-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/Disha-Portfolio/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/Disha-Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/Disha-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Disha-Portfolio/index.html",
+    "main.26f8d306.css.map": "/Disha-Portfolio/static/css/main.26f8d306.css.map",
+    "main.36c5a373.js.map": "/Disha-Portfolio/static/js/main.36c5a373.js.map",
+    "787.128fc6e9.chunk.js.map": "/Disha-Portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26f8d306.css",
+    "static/js/main.36c5a373.js"
+  ]
+}
