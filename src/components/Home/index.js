@@ -41,6 +41,9 @@ const Home =() => {
                 />
 
                 </h1>
+
+                <p>Hi there! I am Disha, currently working as an Data Engineer in Clarivate. I persued B.Tech degree in Computer Science and have sharpened my skills in Data Engineering,Data Structures and Algorithms,Web Designing and Web Development. I am a quick learner and have a keen eye for detail, which enables me to identify and solve problems effectively. I am also a team player and can work efficiently and effectively under pressure. My passion for technology and my drive to make an impact have driven me to constantly seek new challenges and opportunities for growth and development.</p>
+
                 <h2>FrontEnd Developer | Data Engineer | Blogger | Data Structure and Algorithm</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>

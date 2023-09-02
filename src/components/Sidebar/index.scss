@@ -86,7 +86,13 @@ nav{
 
     a.project-link{
         &::after{
-            content: 'PROJECT';
+            content: 'PROJECTS';
+        }
+    }
+
+    a.skill-link{
+        &::after{
+            content: 'SKILLS';
         }
     }
 

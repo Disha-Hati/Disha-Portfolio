@@ -24,35 +24,11 @@ const Project =()=>{
                         idx={15}
                     />
                 </h1>
+                <p> For my projects, visit my <a href='https://github.com/Disha-Hati'>Github</a> link</p><br/>
+                
             </div>
 
-            {ProjectData.map((data) => {
-          return (
-            <div key={data.id} className="tile">
-              <div className="tile-1">
-                <img
-                  className="project-icon"
-                  src={data.projectImage}
-                  alt="project-icon"
-                />
-                <div>
-                  <h1>{data.projectName}</h1>
-                  <small>{data.date}</small>
-                  <p>{data.projectInfo1}</p>
-                  <p>{data.projectInfo2}</p>
-                  <div className="tile-2">
-                    <a href={data.appUrl} rel="noreferrer" target="_blank">
-                      View Live
-                    </a>
-                    <a href={data.appCode} rel="noreferrer" target="_blank">
-                      View Code
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          );
-        })}
+           
 
         <Loader type="pacman" />
         </div>
