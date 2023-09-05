@@ -27,7 +27,12 @@ const Project =()=>{
                 <p> For my projects, visit my <a href='https://github.com/Disha-Hati'>Github</a> link</p><br/>
                 
             </div>
-
+            <div className="stage-cube-cont">
+              <div id="stars"></div>
+              <div id="star2"></div>
+              <div id="star3"></div>
+          
+        </div>
            
 
         <Loader type="pacman" />
